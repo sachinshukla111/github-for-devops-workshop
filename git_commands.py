@@ -6,3 +6,7 @@ rm testing.py
 git restore testing.py
 git rm --cached testing.py
 git add.
+sachin shukla 
+yesh chande 
+drop shot
+box game
